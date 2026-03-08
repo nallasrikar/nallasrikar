@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Nalla Srikar 👋
+Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
+Currently pursuing M.Tech in Embedded Systems
 
-<!--
-**nallasrikar/nallasrikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
 
-Here are some ideas to get you started:
+Programming
+• SQL
+• Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analysis
+• Data Cleaning
+• Exploratory Data Analysis
+• Storytelling
+
+Visualization
+• Power BI
+• Tableau 
+• Excel
+
+Tools
+
+• MySQL
+• Excel
+• Power BI
+• Jupyter Notebook
+• Git
+
+connect with me 
+
+srikar833@gmail.com
+www.linkedin.com/in/srikar833
